@@ -1,0 +1,7784 @@
+[
+ {
+   "FIELD1": "userId",
+   "FIELD2": "movieId",
+   "FIELD3": "tag",
+   "FIELD4": "timestamp"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "339",
+   "FIELD3": "sandra 'boring' bullock",
+   "FIELD4": "1138537770"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "1955",
+   "FIELD3": "dentist",
+   "FIELD4": "1193435061"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "7478",
+   "FIELD3": "Cambodia",
+   "FIELD4": "1170560997"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "32892",
+   "FIELD3": "Russian",
+   "FIELD4": "1170626366"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "34162",
+   "FIELD3": "forgettable",
+   "FIELD4": "1141391765"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "35957",
+   "FIELD3": "short",
+   "FIELD4": "1141391873"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "37729",
+   "FIELD3": "dull story",
+   "FIELD4": "1141391806"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "45950",
+   "FIELD3": "powerpoint",
+   "FIELD4": "1169616291"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "100365",
+   "FIELD3": "activist",
+   "FIELD4": "1425876220"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "100365",
+   "FIELD3": "documentary",
+   "FIELD4": "1425876220"
+ },
+ {
+   "FIELD1": "15",
+   "FIELD2": "100365",
+   "FIELD3": "uganda",
+   "FIELD4": "1425876220"
+ },
+ {
+   "FIELD1": "23",
+   "FIELD2": "150",
+   "FIELD3": "Ron Howard",
+   "FIELD4": "1148672905"
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "2174",
+   "FIELD3": "music",
+   "FIELD4": "1249808064"
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "2174",
+   "FIELD3": "weird",
+   "FIELD4": "1249808102"
+ },
+ {
+   "FIELD1": "68",
+   "FIELD2": "8623",
+   "FIELD3": "Steve Martin",
+   "FIELD4": "1249808497"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "107999",
+   "FIELD3": "action",
+   "FIELD4": "1430799184"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "107999",
+   "FIELD3": "anime",
+   "FIELD4": "1430799184"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "107999",
+   "FIELD3": "kung fu",
+   "FIELD4": "1430799184"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "111624",
+   "FIELD3": "drama",
+   "FIELD4": "1431584497"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "111624",
+   "FIELD3": "indie",
+   "FIELD4": "1431584497"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "111624",
+   "FIELD3": "love",
+   "FIELD4": "1431584497"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "130682",
+   "FIELD3": "b movie",
+   "FIELD4": "1432523704"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "130682",
+   "FIELD3": "comedt",
+   "FIELD4": "1432523704"
+ },
+ {
+   "FIELD1": "73",
+   "FIELD2": "130682",
+   "FIELD3": "horror",
+   "FIELD4": "1432523704"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "1199",
+   "FIELD3": "Trilogy of the Imagination",
+   "FIELD4": "1163220043"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "2968",
+   "FIELD3": "Gilliam",
+   "FIELD4": "1163220138"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "2968",
+   "FIELD3": "Trilogy of the Imagination",
+   "FIELD4": "1163220039"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "4467",
+   "FIELD3": "Trilogy of the Imagination",
+   "FIELD4": "1163220065"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "4911",
+   "FIELD3": "Gilliam",
+   "FIELD4": "1163220167"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "5909",
+   "FIELD3": "Takashi Miike",
+   "FIELD4": "1163219591"
+ },
+ {
+   "FIELD1": "77",
+   "FIELD2": "47465",
+   "FIELD3": "Gilliam",
+   "FIELD4": "1163220186"
+ },
+ {
+   "FIELD1": "84",
+   "FIELD2": "296",
+   "FIELD3": "intense",
+   "FIELD4": "1429911417"
+ },
+ {
+   "FIELD1": "84",
+   "FIELD2": "296",
+   "FIELD3": "r:violence",
+   "FIELD4": "1429911417"
+ },
+ {
+   "FIELD1": "84",
+   "FIELD2": "296",
+   "FIELD3": "tarantino",
+   "FIELD4": "1429911417"
+ },
+ {
+   "FIELD1": "91",
+   "FIELD2": "4388",
+   "FIELD3": "parody",
+   "FIELD4": "1448813502"
+ },
+ {
+   "FIELD1": "94",
+   "FIELD2": "1131",
+   "FIELD3": "emotional",
+   "FIELD4": "1291781542"
+ },
+ {
+   "FIELD1": "94",
+   "FIELD2": "1131",
+   "FIELD3": "tragedy",
+   "FIELD4": "1291781538"
+ },
+ {
+   "FIELD1": "94",
+   "FIELD2": "64957",
+   "FIELD3": "original plot",
+   "FIELD4": "1291781246"
+ },
+ {
+   "FIELD1": "94",
+   "FIELD2": "74458",
+   "FIELD3": "Predictable",
+   "FIELD4": "1291780920"
+ },
+ {
+   "FIELD1": "106",
+   "FIELD2": "48711",
+   "FIELD3": "CHRISTIAN",
+   "FIELD4": "1215923364"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "4189",
+   "FIELD3": "jesus",
+   "FIELD4": "1367909949"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "4612",
+   "FIELD3": "jesus",
+   "FIELD4": "1367909949"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "6683",
+   "FIELD3": "bollywood",
+   "FIELD4": "1367909913"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "6986",
+   "FIELD3": "jesus",
+   "FIELD4": "1367909949"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "27255",
+   "FIELD3": "No progress",
+   "FIELD4": "1283581045"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "27255",
+   "FIELD3": "Too slow",
+   "FIELD4": "1283581045"
+ },
+ {
+   "FIELD1": "132",
+   "FIELD2": "27255",
+   "FIELD3": "Views",
+   "FIELD4": "1283581045"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "260",
+   "FIELD3": "cult classic",
+   "FIELD4": "1440379022"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "260",
+   "FIELD3": "Science Fiction",
+   "FIELD4": "1440379018"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1258",
+   "FIELD3": "cult film",
+   "FIELD4": "1440380361"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1258",
+   "FIELD3": "jack nicholson",
+   "FIELD4": "1440380355"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1258",
+   "FIELD3": "psychological",
+   "FIELD4": "1440380357"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1258",
+   "FIELD3": "Stanley Kubrick",
+   "FIELD4": "1440380352"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1704",
+   "FIELD3": "genius",
+   "FIELD4": "1440380467"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1704",
+   "FIELD3": "intellectual",
+   "FIELD4": "1440380463"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1704",
+   "FIELD3": "mathematics",
+   "FIELD4": "1440380466"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "1704",
+   "FIELD3": "psychology",
+   "FIELD4": "1440380470"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4226",
+   "FIELD3": "Mindfuck",
+   "FIELD4": "1440380125"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4226",
+   "FIELD3": "nonlinear",
+   "FIELD4": "1440380113"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4226",
+   "FIELD3": "psychology",
+   "FIELD4": "1440380115"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4226",
+   "FIELD3": "twist ending",
+   "FIELD4": "1440380118"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4995",
+   "FIELD3": "genius",
+   "FIELD4": "1440380440"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4995",
+   "FIELD3": "intelligent",
+   "FIELD4": "1440380446"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4995",
+   "FIELD3": "math",
+   "FIELD4": "1440380438"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4995",
+   "FIELD3": "mathematics",
+   "FIELD4": "1440380436"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "4995",
+   "FIELD3": "twist ending",
+   "FIELD4": "1440380448"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "Christopher Nolan",
+   "FIELD4": "1440380053"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "complicated",
+   "FIELD4": "1440380062"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "Hugh Jackman",
+   "FIELD4": "1440380072"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "nonlinear",
+   "FIELD4": "1440380067"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "psychological",
+   "FIELD4": "1440380064"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "48780",
+   "FIELD3": "twist ending",
+   "FIELD4": "1440380047"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "alternate reality",
+   "FIELD4": "1440380233"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "Christopher Nolan",
+   "FIELD4": "1440380255"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "intellectual",
+   "FIELD4": "1440380251"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "mindfuck",
+   "FIELD4": "1440380252"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "philosophy",
+   "FIELD4": "1440380242"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1440380239"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "79132",
+   "FIELD3": "twist ending",
+   "FIELD4": "1440380245"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "artificial intelligence",
+   "FIELD4": "1440379984"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "Christopher Nolan",
+   "FIELD4": "1440380001"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "good science",
+   "FIELD4": "1440379977"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "interesting ideea",
+   "FIELD4": "1440379991"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "philosophical issues",
+   "FIELD4": "1440379996"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "physics",
+   "FIELD4": "1440379925"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "relativity",
+   "FIELD4": "1440380500"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1440380008"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "sentimental",
+   "FIELD4": "1440379993"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "space",
+   "FIELD4": "1440379974"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "time travel",
+   "FIELD4": "1440379981"
+ },
+ {
+   "FIELD1": "138",
+   "FIELD2": "109487",
+   "FIELD3": "time-travel",
+   "FIELD4": "1440379968"
+ },
+ {
+   "FIELD1": "149",
+   "FIELD2": "121231",
+   "FIELD3": "eerie",
+   "FIELD4": "1436920551"
+ },
+ {
+   "FIELD1": "149",
+   "FIELD2": "121231",
+   "FIELD3": "friendship",
+   "FIELD4": "1436920551"
+ },
+ {
+   "FIELD1": "149",
+   "FIELD2": "121231",
+   "FIELD3": "teenagers",
+   "FIELD4": "1436920551"
+ },
+ {
+   "FIELD1": "152",
+   "FIELD2": "52319",
+   "FIELD3": "World War II",
+   "FIELD4": "1335900622"
+ },
+ {
+   "FIELD1": "164",
+   "FIELD2": "608",
+   "FIELD3": "Quirky",
+   "FIELD4": "1179031045"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": "5445",
+   "FIELD3": "Tom Cruise",
+   "FIELD4": "1378384753"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": "7458",
+   "FIELD3": "Brad Pitt",
+   "FIELD4": "1341055445"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": "8972",
+   "FIELD3": "Nicolas Cage",
+   "FIELD4": "1341055378"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": "69640",
+   "FIELD3": "Johnny Depp",
+   "FIELD4": "1340916254"
+ },
+ {
+   "FIELD1": "176",
+   "FIELD2": "104841",
+   "FIELD3": "sexist",
+   "FIELD4": "1384107184"
+ },
+ {
+   "FIELD1": "179",
+   "FIELD2": "260",
+   "FIELD3": "nerdy",
+   "FIELD4": "1436669973"
+ },
+ {
+   "FIELD1": "179",
+   "FIELD2": "260",
+   "FIELD3": "Science Fiction",
+   "FIELD4": "1436669968"
+ },
+ {
+   "FIELD1": "187",
+   "FIELD2": "2082",
+   "FIELD3": "Emilio Estevez",
+   "FIELD4": "1233517175"
+ },
+ {
+   "FIELD1": "200",
+   "FIELD2": "260",
+   "FIELD3": "critically acclaimed",
+   "FIELD4": "1437932756"
+ },
+ {
+   "FIELD1": "200",
+   "FIELD2": "260",
+   "FIELD3": "Science Fiction",
+   "FIELD4": "1437932763"
+ },
+ {
+   "FIELD1": "200",
+   "FIELD2": "80551",
+   "FIELD3": "strong female presence",
+   "FIELD4": "1438023607"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1061",
+   "FIELD3": "emotional",
+   "FIELD4": "1253930128"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1061",
+   "FIELD3": "revenge",
+   "FIELD4": "1253930131"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1061",
+   "FIELD3": "true story",
+   "FIELD4": "1253930149"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1732",
+   "FIELD3": "cult film",
+   "FIELD4": "1253929373"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1732",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1253929372"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "1732",
+   "FIELD3": "satirical",
+   "FIELD4": "1253929376"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "2359",
+   "FIELD3": "British",
+   "FIELD4": "1253930034"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "2641",
+   "FIELD3": "childish plot",
+   "FIELD4": "1253930390"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "2641",
+   "FIELD3": "plot holes",
+   "FIELD4": "1253930395"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "2641",
+   "FIELD3": "superhero",
+   "FIELD4": "1253930399"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3257",
+   "FIELD3": "Kevin Costner",
+   "FIELD4": "1253930539"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3257",
+   "FIELD3": "snorefest",
+   "FIELD4": "1253930543"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3275",
+   "FIELD3": "vigilantism",
+   "FIELD4": "1218405594"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3300",
+   "FIELD3": "anti-hero",
+   "FIELD4": "1253929917"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3300",
+   "FIELD3": "Cole Hauser",
+   "FIELD4": "1253929922"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3300",
+   "FIELD3": "Vin Diesel",
+   "FIELD4": "1253929910"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3301",
+   "FIELD3": "Amanda Peet",
+   "FIELD4": "1253929798"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3301",
+   "FIELD3": "Matthew Perry",
+   "FIELD4": "1253929802"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3301",
+   "FIELD3": "Rosanna Arquette",
+   "FIELD4": "1253929813"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3809",
+   "FIELD3": "Bill Murray",
+   "FIELD4": "1253931205"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3809",
+   "FIELD3": "quirky",
+   "FIELD4": "1253931216"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3882",
+   "FIELD3": "cheerleading",
+   "FIELD4": "1253932873"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3882",
+   "FIELD3": "Eliza Dushku",
+   "FIELD4": "1253932876"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "3882",
+   "FIELD3": "Overrated",
+   "FIELD4": "1253932878"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "4069",
+   "FIELD3": "standard romantic comedy",
+   "FIELD4": "1253933882"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "5219",
+   "FIELD3": "video game adaptation",
+   "FIELD4": "1253930587"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "5507",
+   "FIELD3": "play enough video games and you can become an NSA agent",
+   "FIELD4": "1253930345"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "5507",
+   "FIELD3": "ridiculous training sequence",
+   "FIELD4": "1253930342"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "7373",
+   "FIELD3": "Guillermo del Toro",
+   "FIELD4": "1253929290"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "7373",
+   "FIELD3": "steampunk",
+   "FIELD4": "1253929296"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "7373",
+   "FIELD3": "superhero",
+   "FIELD4": "1253929293"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8861",
+   "FIELD3": "Oded Fehr",
+   "FIELD4": "1253930624"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8861",
+   "FIELD3": "post-apocalyptic",
+   "FIELD4": "1253930636"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8861",
+   "FIELD3": "Sienna Guillory",
+   "FIELD4": "1253930633"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8861",
+   "FIELD3": "zombies",
+   "FIELD4": "1253930644"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8928",
+   "FIELD3": "Beautiful Woman",
+   "FIELD4": "1253926735"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8928",
+   "FIELD3": "campy",
+   "FIELD4": "1253926723"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8928",
+   "FIELD3": "irreverent",
+   "FIELD4": "1253926726"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8928",
+   "FIELD3": "quirky",
+   "FIELD4": "1253926728"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "8928",
+   "FIELD3": "Roman Polanski",
+   "FIELD4": "1253926730"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "27904",
+   "FIELD3": "good animation",
+   "FIELD4": "1253931241"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "27904",
+   "FIELD3": "interesting concept - bad execution",
+   "FIELD4": "1253931234"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "27904",
+   "FIELD3": "surrealism",
+   "FIELD4": "1253931244"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "34405",
+   "FIELD3": "aliens",
+   "FIELD4": "1253928597"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "34405",
+   "FIELD3": "black comedy",
+   "FIELD4": "1253928590"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "34405",
+   "FIELD3": "Firefly",
+   "FIELD4": "1253928585"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "37733",
+   "FIELD3": "disappointing",
+   "FIELD4": "1253929514"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "37733",
+   "FIELD3": "overrated",
+   "FIELD4": "1253929532"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "37733",
+   "FIELD3": "Viggo Mortensen",
+   "FIELD4": "1253929518"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "48394",
+   "FIELD3": "dark",
+   "FIELD4": "1218405627"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "48394",
+   "FIELD3": "fairytale",
+   "FIELD4": "1218405627"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "60684",
+   "FIELD3": "alternate reality",
+   "FIELD4": "1253926526"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "60684",
+   "FIELD3": "diluted version of comic",
+   "FIELD4": "1253926511"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "60684",
+   "FIELD3": "dystopia",
+   "FIELD4": "1253926517"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "60684",
+   "FIELD3": "stylized",
+   "FIELD4": "1253926519"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "63992",
+   "FIELD3": "high school",
+   "FIELD4": "1253932469"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "63992",
+   "FIELD3": "Kristen Stewart",
+   "FIELD4": "1253932484"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "63992",
+   "FIELD3": "Robert Pattinson",
+   "FIELD4": "1253932481"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "63992",
+   "FIELD3": "Teen movie",
+   "FIELD4": "1253932459"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "63992",
+   "FIELD3": "Vampire Human Love",
+   "FIELD4": "1253932463"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "adapted from:book",
+   "FIELD4": "1253929184"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "Aging Disorder",
+   "FIELD4": "1253929189"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "Brad Pitt",
+   "FIELD4": "1253929141"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "cinematography",
+   "FIELD4": "1253929177"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "drama",
+   "FIELD4": "1253929173"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "original plot",
+   "FIELD4": "1253929180"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "slow parts",
+   "FIELD4": "1253929162"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "64957",
+   "FIELD3": "touching",
+   "FIELD4": "1253929169"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "alternate universe",
+   "FIELD4": "1253926354"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "author:Neil Gaiman",
+   "FIELD4": "1253926328"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "claymation",
+   "FIELD4": "1253926330"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "Dakota Fanning",
+   "FIELD4": "1253926349"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "dark",
+   "FIELD4": "1253926337"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "fairy tale",
+   "FIELD4": "1253926364"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66097",
+   "FIELD3": "Neil Gaiman",
+   "FIELD4": "1253926360"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "Captain Hammer",
+   "FIELD4": "1253926165"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "joss whedon",
+   "FIELD4": "1253926158"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "mad scientist",
+   "FIELD4": "1253926186"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "musical",
+   "FIELD4": "1253926178"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "Nathan Fillion",
+   "FIELD4": "1253926182"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "Neil Patrick Harris",
+   "FIELD4": "1253926160"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "66934",
+   "FIELD3": "parody",
+   "FIELD4": "1253926168"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "Brad Pitt",
+   "FIELD4": "1253926443"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "ending",
+   "FIELD4": "1253926451"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "gratuitous violence",
+   "FIELD4": "1253926429"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "Quentin Tarantino",
+   "FIELD4": "1253926404"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "satire",
+   "FIELD4": "1253926435"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "unusual plot structure",
+   "FIELD4": "1253926417"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "violence",
+   "FIELD4": "1253926426"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68157",
+   "FIELD3": "World War II",
+   "FIELD4": "1253926408"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68319",
+   "FIELD3": "action",
+   "FIELD4": "1253928934"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68319",
+   "FIELD3": "bad plot",
+   "FIELD4": "1253928950"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68319",
+   "FIELD3": "hugh jackman",
+   "FIELD4": "1253928926"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68319",
+   "FIELD3": "superhero",
+   "FIELD4": "1253928935"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "68319",
+   "FIELD3": "too long",
+   "FIELD4": "1253928954"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69526",
+   "FIELD3": "bad plot",
+   "FIELD4": "1253929636"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69526",
+   "FIELD3": "robots",
+   "FIELD4": "1253929657"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69526",
+   "FIELD3": "sufficiently explodey to be good",
+   "FIELD4": "1253929639"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69712",
+   "FIELD3": "Abigail Breslin",
+   "FIELD4": "1260688098"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69712",
+   "FIELD3": "ending",
+   "FIELD4": "1260688053"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69712",
+   "FIELD3": "genuine characters",
+   "FIELD4": "1260688086"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "69712",
+   "FIELD3": "Jason Patric",
+   "FIELD4": "1260688105"
+ },
+ {
+   "FIELD1": "212",
+   "FIELD2": "71057",
+   "FIELD3": "animation style",
+   "FIELD4": "1253926100"
+ },
+ {
+   "FIELD1": "219",
+   "FIELD2": "46970",
+   "FIELD3": "funny",
+   "FIELD4": "1156788918"
+ },
+ {
+   "FIELD1": "219",
+   "FIELD2": "46970",
+   "FIELD3": "nascar",
+   "FIELD4": "1156788904"
+ },
+ {
+   "FIELD1": "219",
+   "FIELD2": "46970",
+   "FIELD3": "will farell",
+   "FIELD4": "1156788913"
+ },
+ {
+   "FIELD1": "219",
+   "FIELD2": "47640",
+   "FIELD3": "beer",
+   "FIELD4": "1156788764"
+ },
+ {
+   "FIELD1": "219",
+   "FIELD2": "47640",
+   "FIELD3": "guy movie",
+   "FIELD4": "1156788774"
+ },
+ {
+   "FIELD1": "255",
+   "FIELD2": "6985",
+   "FIELD3": "breathtaking",
+   "FIELD4": "1237060605"
+ },
+ {
+   "FIELD1": "255",
+   "FIELD2": "7361",
+   "FIELD3": "i'd like to live in this movie",
+   "FIELD4": "1237060140"
+ },
+ {
+   "FIELD1": "255",
+   "FIELD2": "44555",
+   "FIELD3": "breathtaking",
+   "FIELD4": "1237060235"
+ },
+ {
+   "FIELD1": "257",
+   "FIELD2": "3030",
+   "FIELD3": "akira kurosawa",
+   "FIELD4": "1338084833"
+ },
+ {
+   "FIELD1": "257",
+   "FIELD2": "3030",
+   "FIELD3": "black comedy",
+   "FIELD4": "1338084822"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "5618",
+   "FIELD3": "anime",
+   "FIELD4": "1463916275"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "5618",
+   "FIELD3": "children",
+   "FIELD4": "1463916304"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "5618",
+   "FIELD3": "fantasy",
+   "FIELD4": "1463916289"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "5971",
+   "FIELD3": "fantasy",
+   "FIELD4": "1463916386"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "5971",
+   "FIELD3": "feel-good",
+   "FIELD4": "1463916401"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "82461",
+   "FIELD3": "bad acting",
+   "FIELD4": "1463916776"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "82461",
+   "FIELD3": "bad plot",
+   "FIELD4": "1463916772"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "104283",
+   "FIELD3": "anime",
+   "FIELD4": "1463916484"
+ },
+ {
+   "FIELD1": "277",
+   "FIELD2": "132046",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1463916817"
+ },
+ {
+   "FIELD1": "294",
+   "FIELD2": "6754",
+   "FIELD3": "vampire",
+   "FIELD4": "1138983469"
+ },
+ {
+   "FIELD1": "294",
+   "FIELD2": "8865",
+   "FIELD3": "1940's feel",
+   "FIELD4": "1140395930"
+ },
+ {
+   "FIELD1": "294",
+   "FIELD2": "8865",
+   "FIELD3": "unique look",
+   "FIELD4": "1140395930"
+ },
+ {
+   "FIELD1": "294",
+   "FIELD2": "36401",
+   "FIELD3": "fairy tales",
+   "FIELD4": "1138983064"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "104",
+   "FIELD3": "adam sandler",
+   "FIELD4": "1318706504"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "608",
+   "FIELD3": "overrated",
+   "FIELD4": "1318706739"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "1103",
+   "FIELD3": "overrated",
+   "FIELD4": "1318706182"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "2502",
+   "FIELD3": "that fat nerd is just annoying",
+   "FIELD4": "1318706118"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "8528",
+   "FIELD3": "seen it before",
+   "FIELD4": "1318706449"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "47640",
+   "FIELD3": "Just stupid",
+   "FIELD4": "1318706536"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "52973",
+   "FIELD3": "overrated",
+   "FIELD4": "1318706470"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "55820",
+   "FIELD3": "overrated",
+   "FIELD4": "1318706705"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "61024",
+   "FIELD3": "Exellent first half",
+   "FIELD4": "1318706053"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "61024",
+   "FIELD3": "terrible ending",
+   "FIELD4": "1318706042"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "76251",
+   "FIELD3": "Gore!!!",
+   "FIELD4": "1318706275"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "76251",
+   "FIELD3": "sort of honest",
+   "FIELD4": "1318706296"
+ },
+ {
+   "FIELD1": "297",
+   "FIELD2": "78209",
+   "FIELD3": "Lame everything",
+   "FIELD4": "1318706227"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "153",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879424"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "293",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878292"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "434",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879406"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "494",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878844"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "593",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146476938"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "745",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146476364"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "780",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878578"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "858",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146476794"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1036",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878388"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1042",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146477133"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1120",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146477118"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1200",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146477102"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1291",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146476308"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1610",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146476692"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "1617",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878593"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "2273",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146477049"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "2329",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146477033"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "2600",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879003"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "2985",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878743"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "2989",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878972"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3160",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878736"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3175",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879647"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3499",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878727"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3793",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146476954"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3916",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146476265"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3949",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878697"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "3994",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879611"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "4011",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878363"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "4023",
+   "FIELD3": "ei muista",
+   "FIELD4": "1146477341"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "4121",
+   "FIELD3": "Katso Sanna!",
+   "FIELD4": "1146477233"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "4223",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146476274"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "4638",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146477217"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "5064",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146476225"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "5602",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879553"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "6218",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1146477184"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "7347",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879177"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "8781",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168879161"
+ },
+ {
+   "FIELD1": "313",
+   "FIELD2": "44199",
+   "FIELD3": "Ei muista",
+   "FIELD4": "1168878406"
+ },
+ {
+   "FIELD1": "314",
+   "FIELD2": "260",
+   "FIELD3": "awesome",
+   "FIELD4": "1437338154"
+ },
+ {
+   "FIELD1": "314",
+   "FIELD2": "260",
+   "FIELD3": "awesome soundtrack",
+   "FIELD4": "1437338150"
+ },
+ {
+   "FIELD1": "314",
+   "FIELD2": "260",
+   "FIELD3": "jedi",
+   "FIELD4": "1437338139"
+ },
+ {
+   "FIELD1": "314",
+   "FIELD2": "260",
+   "FIELD3": "space adventure",
+   "FIELD4": "1437338130"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "741",
+   "FIELD3": "anime",
+   "FIELD4": "1159734531"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "924",
+   "FIELD3": "boring",
+   "FIELD4": "1159734220"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "924",
+   "FIELD3": "slow",
+   "FIELD4": "1159734220"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "1036",
+   "FIELD3": "explosions",
+   "FIELD4": "1159734488"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "1199",
+   "FIELD3": "dystopia",
+   "FIELD4": "1159734421"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "1274",
+   "FIELD3": "anime",
+   "FIELD4": "1159734245"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "2019",
+   "FIELD3": "long",
+   "FIELD4": "1159734734"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "2571",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1159734634"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "2571",
+   "FIELD3": "virtual reality",
+   "FIELD4": "1159734636"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "2924",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734502"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "2997",
+   "FIELD3": "interesting",
+   "FIELD4": "1159734363"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "3265",
+   "FIELD3": "explosions",
+   "FIELD4": "1159734552"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "3265",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734552"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "3996",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734445"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "4993",
+   "FIELD3": "long",
+   "FIELD4": "1159734600"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "5782",
+   "FIELD3": "explosions",
+   "FIELD4": "1159734683"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "5782",
+   "FIELD3": "interesting",
+   "FIELD4": "1159734683"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "5902",
+   "FIELD3": "boring",
+   "FIELD4": "1159734233"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "5952",
+   "FIELD3": "boring",
+   "FIELD4": "1159734622"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "5952",
+   "FIELD3": "long",
+   "FIELD4": "1159734622"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "6350",
+   "FIELD3": "anime",
+   "FIELD4": "1159734417"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "6539",
+   "FIELD3": "Johnny Depp",
+   "FIELD4": "1159734656"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "6857",
+   "FIELD3": "anime",
+   "FIELD4": "1159734652"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7022",
+   "FIELD3": "explosions",
+   "FIELD4": "1159734326"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7022",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734467"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7090",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734555"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7153",
+   "FIELD3": "boring",
+   "FIELD4": "1159734608"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7153",
+   "FIELD3": "long",
+   "FIELD4": "1159734608"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7361",
+   "FIELD3": "interesting",
+   "FIELD4": "1159734515"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "7844",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734589"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "8795",
+   "FIELD3": "Long",
+   "FIELD4": "1159734165"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "8874",
+   "FIELD3": "comedy",
+   "FIELD4": "1159734745"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "8874",
+   "FIELD3": "zombies",
+   "FIELD4": "1159734745"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "8961",
+   "FIELD3": "super-hero",
+   "FIELD4": "1159734563"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "26554",
+   "FIELD3": "apocalypse",
+   "FIELD4": "1159734706"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "26554",
+   "FIELD3": "interesting",
+   "FIELD4": "1159734706"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "26585",
+   "FIELD3": "explosions",
+   "FIELD4": "1159734379"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "31878",
+   "FIELD3": "comedy",
+   "FIELD4": "1159734584"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "31878",
+   "FIELD3": "martial arts",
+   "FIELD4": "1159734584"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "31878",
+   "FIELD3": "Stephen Chow",
+   "FIELD4": "1159734584"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "33794",
+   "FIELD3": "bad camerawork",
+   "FIELD4": "1159734301"
+ },
+ {
+   "FIELD1": "346",
+   "FIELD2": "33794",
+   "FIELD3": "slow",
+   "FIELD4": "1159734301"
+ },
+ {
+   "FIELD1": "347",
+   "FIELD2": "1721",
+   "FIELD3": "romance",
+   "FIELD4": "1463337171"
+ },
+ {
+   "FIELD1": "347",
+   "FIELD2": "122886",
+   "FIELD3": "space",
+   "FIELD4": "1463337217"
+ },
+ {
+   "FIELD1": "347",
+   "FIELD2": "122886",
+   "FIELD3": "star",
+   "FIELD4": "1463337213"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "4721",
+   "FIELD3": "As historicaly correct as Germany winning WW2",
+   "FIELD4": "1140389056"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "4721",
+   "FIELD3": "but still a fun movie.",
+   "FIELD4": "1140389056"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "7376",
+   "FIELD3": "The Rocks \"finest\" work need I say more?",
+   "FIELD4": "1140389511"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "31221",
+   "FIELD3": "Try not to mistake this for an episode of Alias",
+   "FIELD4": "1140389595"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "32025",
+   "FIELD3": "Mossad",
+   "FIELD4": "1142686944"
+ },
+ {
+   "FIELD1": "353",
+   "FIELD2": "35836",
+   "FIELD3": "dumb",
+   "FIELD4": "1137217440"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "biblical",
+   "FIELD4": "1444534976"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "crime",
+   "FIELD4": "1444534982"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "dark",
+   "FIELD4": "1444534994"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "disturbing",
+   "FIELD4": "1444534971"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "greed",
+   "FIELD4": "1444534998"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "horror",
+   "FIELD4": "1444534981"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "serial killer",
+   "FIELD4": "1444534961"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "47",
+   "FIELD3": "violent",
+   "FIELD4": "1444534985"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "50",
+   "FIELD3": "thriller",
+   "FIELD4": "1444534932"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "232",
+   "FIELD3": "aging",
+   "FIELD4": "1444531181"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "232",
+   "FIELD3": "Ang Lee",
+   "FIELD4": "1444531177"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "232",
+   "FIELD3": "cooking",
+   "FIELD4": "1444531178"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "232",
+   "FIELD3": "food",
+   "FIELD4": "1444531186"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "232",
+   "FIELD3": "relationships",
+   "FIELD4": "1444531173"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "293",
+   "FIELD3": "assassin",
+   "FIELD4": "1444534872"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "293",
+   "FIELD3": "hit men",
+   "FIELD4": "1444534872"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "293",
+   "FIELD3": "thriller",
+   "FIELD4": "1444534887"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "friendship",
+   "FIELD4": "1444529800"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "Morgan Freeman",
+   "FIELD4": "1444529792"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "narrated",
+   "FIELD4": "1444529829"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "prison",
+   "FIELD4": "1444529824"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "prison escape",
+   "FIELD4": "1444529820"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "revenge",
+   "FIELD4": "1444529816"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "Tim Robbins",
+   "FIELD4": "1444529804"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "318",
+   "FIELD3": "wrongful imprisonment",
+   "FIELD4": "1444529809"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1176",
+   "FIELD3": "imaginative",
+   "FIELD4": "1444528969"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1176",
+   "FIELD3": "intellectual",
+   "FIELD4": "1444528955"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1176",
+   "FIELD3": "Irene Jacob",
+   "FIELD4": "1444528944"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1176",
+   "FIELD3": "Krzysztof Kieslowski",
+   "FIELD4": "1444528941"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1176",
+   "FIELD3": "lyrical",
+   "FIELD4": "1444528947"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "action",
+   "FIELD4": "1444529881"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "aliens",
+   "FIELD4": "1444529879"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "George Lucas",
+   "FIELD4": "1444529892"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "Harrison Ford",
+   "FIELD4": "1444529867"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1444529889"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "sequel",
+   "FIELD4": "1444529879"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "space",
+   "FIELD4": "1444529864"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "Star Wars",
+   "FIELD4": "1444529869"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "starship pilots",
+   "FIELD4": "1444529899"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1210",
+   "FIELD3": "war",
+   "FIELD4": "1444529884"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "alternate reality",
+   "FIELD4": "1444530190"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "Bill Murray",
+   "FIELD4": "1444530207"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "character development",
+   "FIELD4": "1444530216"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "comedy",
+   "FIELD4": "1444530195"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "existentialism",
+   "FIELD4": "1444530199"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "feel-good",
+   "FIELD4": "1444530209"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "funny",
+   "FIELD4": "1444530200"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "love",
+   "FIELD4": "1444530219"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "romantic",
+   "FIELD4": "1444530228"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1265",
+   "FIELD3": "self discovery",
+   "FIELD4": "1444530203"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "great dialogue",
+   "FIELD4": "1444535166"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "Jeff Bridges",
+   "FIELD4": "1444535201"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "Nudity (Full Frontal)",
+   "FIELD4": "1444535170"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "off-beat comedy",
+   "FIELD4": "1444535205"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "quirky",
+   "FIELD4": "1444535198"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "satirical",
+   "FIELD4": "1444535172"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "1732",
+   "FIELD3": "Steve Buscemi",
+   "FIELD4": "1444535164"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2068",
+   "FIELD3": "coming of age",
+   "FIELD4": "1444530920"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2068",
+   "FIELD3": "funny",
+   "FIELD4": "1444530913"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "bookshop",
+   "FIELD4": "1444530521"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "happy ending",
+   "FIELD4": "1444530524"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "Meg Ryan",
+   "FIELD4": "1444530516"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "Romance",
+   "FIELD4": "1444530517"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "romantic comedy",
+   "FIELD4": "1444530529"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "2424",
+   "FIELD3": "Tom Hanks",
+   "FIELD4": "1444530527"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "3948",
+   "FIELD3": "awkward",
+   "FIELD4": "1444529225"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "creative",
+   "FIELD4": "1444529752"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "funny",
+   "FIELD4": "1444529739"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "Helen Hunt",
+   "FIELD4": "1444529729"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "hilarious",
+   "FIELD4": "1444529746"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "Mel Gibson",
+   "FIELD4": "1444529756"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4018",
+   "FIELD3": "stereotypes",
+   "FIELD4": "1444529760"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "beautifully filmed",
+   "FIELD4": "1444528866"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "comedy",
+   "FIELD4": "1444528870"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "feel-good",
+   "FIELD4": "1444528900"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "imagination",
+   "FIELD4": "1444528880"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "love",
+   "FIELD4": "1444528875"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "notable soundtrack",
+   "FIELD4": "1444528857"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "quirky",
+   "FIELD4": "1444528852"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "4973",
+   "FIELD3": "whimsical",
+   "FIELD4": "1444528860"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "5299",
+   "FIELD3": "comedy",
+   "FIELD4": "1444529040"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "5299",
+   "FIELD3": "family",
+   "FIELD4": "1444529044"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "5299",
+   "FIELD3": "funny",
+   "FIELD4": "1444529038"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6350",
+   "FIELD3": "aviation",
+   "FIELD4": "1444531651"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6350",
+   "FIELD3": "funny",
+   "FIELD4": "1444531664"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6350",
+   "FIELD3": "imagination",
+   "FIELD4": "1444531644"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6350",
+   "FIELD3": "Studio Ghibli",
+   "FIELD4": "1444531642"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6350",
+   "FIELD3": "visually appealing",
+   "FIELD4": "1444531647"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "comedy",
+   "FIELD4": "1444529977"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "Disney",
+   "FIELD4": "1444529957"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "funny",
+   "FIELD4": "1444529960"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "johnny depp",
+   "FIELD4": "1444529962"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "magic",
+   "FIELD4": "1444529965"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "Orlando Bloom",
+   "FIELD4": "1444529978"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "pirates",
+   "FIELD4": "1444529987"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "6539",
+   "FIELD3": "sword fight",
+   "FIELD4": "1444529953"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "7161",
+   "FIELD3": "family",
+   "FIELD4": "1444535334"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "7161",
+   "FIELD3": "funny",
+   "FIELD4": "1444535340"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "7161",
+   "FIELD3": "Steve Martin",
+   "FIELD4": "1444535326"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "8464",
+   "FIELD3": "american idiocy",
+   "FIELD4": "1444531783"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "8464",
+   "FIELD3": "documentary",
+   "FIELD4": "1444531780"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "8464",
+   "FIELD3": "social criticism",
+   "FIELD4": "1444531787"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "26614",
+   "FIELD3": "thriller",
+   "FIELD4": "1444534834"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "26662",
+   "FIELD3": "anime",
+   "FIELD4": "1444530775"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "26662",
+   "FIELD3": "Hayao Miyazaki",
+   "FIELD4": "1444530771"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "26662",
+   "FIELD3": "Studio Ghibli",
+   "FIELD4": "1444530778"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "27611",
+   "FIELD3": "military",
+   "FIELD4": "1444534772"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "27611",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1444534765"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "34321",
+   "FIELD3": "Billy Bob Thornton",
+   "FIELD4": "1444531424"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "34321",
+   "FIELD3": "comedy",
+   "FIELD4": "1444531438"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "34321",
+   "FIELD3": "cursing",
+   "FIELD4": "1444531450"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "34321",
+   "FIELD3": "funny",
+   "FIELD4": "1444531430"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "34321",
+   "FIELD3": "redemption",
+   "FIELD4": "1444531445"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "beauty pageant",
+   "FIELD4": "1444529380"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "family",
+   "FIELD4": "1444529368"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "independent film",
+   "FIELD4": "1444529351"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "off-beat comedy",
+   "FIELD4": "1444529354"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "quirky",
+   "FIELD4": "1444529369"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "road trip",
+   "FIELD4": "1444529384"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "satire",
+   "FIELD4": "1444529372"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "46578",
+   "FIELD3": "steve carell",
+   "FIELD4": "1444529375"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "56367",
+   "FIELD3": "comedy",
+   "FIELD4": "1444535241"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "56367",
+   "FIELD3": "indie",
+   "FIELD4": "1444535247"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "56367",
+   "FIELD3": "pregnancy",
+   "FIELD4": "1444535236"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "56367",
+   "FIELD3": "teen pregnancy",
+   "FIELD4": "1444535244"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "56367",
+   "FIELD3": "witty",
+   "FIELD4": "1444535238"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "64957",
+   "FIELD3": "Aging",
+   "FIELD4": "1444531050"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "64957",
+   "FIELD3": "Brad Pitt",
+   "FIELD4": "1444531041"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "64957",
+   "FIELD3": "original plot",
+   "FIELD4": "1444531048"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "64957",
+   "FIELD3": "philosophical",
+   "FIELD4": "1444531044"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "66934",
+   "FIELD3": "comedy",
+   "FIELD4": "1444530699"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "66934",
+   "FIELD3": "great soundtrack",
+   "FIELD4": "1444530694"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "66934",
+   "FIELD3": "mad scientist",
+   "FIELD4": "1444530688"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "66934",
+   "FIELD3": "Neil Patrick Harris",
+   "FIELD4": "1444530691"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "66934",
+   "FIELD3": "parody",
+   "FIELD4": "1444530697"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "68358",
+   "FIELD3": "sci fi",
+   "FIELD4": "1444530041"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "68358",
+   "FIELD3": "spock",
+   "FIELD4": "1444530038"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "68358",
+   "FIELD3": "Star Trek",
+   "FIELD4": "1444530030"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "68358",
+   "FIELD3": "teleportation",
+   "FIELD4": "1444530045"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "72998",
+   "FIELD3": "aliens",
+   "FIELD4": "1444529449"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "72998",
+   "FIELD3": "graphic design",
+   "FIELD4": "1444529463"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "72998",
+   "FIELD3": "predictable",
+   "FIELD4": "1444529440"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "72998",
+   "FIELD3": "racism",
+   "FIELD4": "1444529457"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "72998",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1444529439"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "93040",
+   "FIELD3": "drama",
+   "FIELD4": "1444530864"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "93040",
+   "FIELD3": "historical",
+   "FIELD4": "1444530873"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "93040",
+   "FIELD3": "interesting",
+   "FIELD4": "1444530861"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "95441",
+   "FIELD3": "cocaine",
+   "FIELD4": "1444529273"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "95441",
+   "FIELD3": "crude humor",
+   "FIELD4": "1444529258"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "95441",
+   "FIELD3": "directorial debut",
+   "FIELD4": "1444529282"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "95441",
+   "FIELD3": "Mark Wahlberg",
+   "FIELD4": "1444529284"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "97938",
+   "FIELD3": "Ang Lee",
+   "FIELD4": "1444531076"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "97938",
+   "FIELD3": "India",
+   "FIELD4": "1444531086"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "97938",
+   "FIELD3": "ocean",
+   "FIELD4": "1444531083"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "97938",
+   "FIELD3": "visually appealing",
+   "FIELD4": "1444531077"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "106696",
+   "FIELD3": "Disney",
+   "FIELD4": "1444530267"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "106696",
+   "FIELD3": "feminist",
+   "FIELD4": "1444530281"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "106696",
+   "FIELD3": "musical",
+   "FIELD4": "1444530270"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "106696",
+   "FIELD3": "storyline",
+   "FIELD4": "1444530270"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "beautiful scenery",
+   "FIELD4": "1444529645"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "coming of age",
+   "FIELD4": "1444529671"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "dark humor",
+   "FIELD4": "1444529660"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "Fernando E. Solanas",
+   "FIELD4": "1444529608"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "imaginative",
+   "FIELD4": "1444529635"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "quirky",
+   "FIELD4": "1444529613"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109249",
+   "FIELD3": "whimsical",
+   "FIELD4": "1444529629"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "amazing storytelling",
+   "FIELD4": "1444529104"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "Bill Murray",
+   "FIELD4": "1444529124"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "cinematography",
+   "FIELD4": "1444529143"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "eastern europe",
+   "FIELD4": "1444529119"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "europe",
+   "FIELD4": "1444529115"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "historical",
+   "FIELD4": "1444529139"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "on the run",
+   "FIELD4": "1444529148"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "109374",
+   "FIELD3": "quirky",
+   "FIELD4": "1444529109"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "comedy",
+   "FIELD4": "1444530392"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "Coming of Age",
+   "FIELD4": "1444530417"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "family",
+   "FIELD4": "1444530402"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "friends",
+   "FIELD4": "1444530410"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "funny",
+   "FIELD4": "1444530394"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "happy ending",
+   "FIELD4": "1444530413"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "heartwarming",
+   "FIELD4": "1444528813"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "inspiring",
+   "FIELD4": "1444530404"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "japanese influence",
+   "FIELD4": "1444528772"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "pixar",
+   "FIELD4": "1444530397"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "115617",
+   "FIELD3": "technology",
+   "FIELD4": "1444528781"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "comedy",
+   "FIELD4": "1444530159"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "fairy tale",
+   "FIELD4": "1444530100"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "funny",
+   "FIELD4": "1444530106"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "great soundtrack",
+   "FIELD4": "1444530127"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "imaginative",
+   "FIELD4": "1444530113"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "meryl streep",
+   "FIELD4": "1444530142"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "118997",
+   "FIELD3": "musical",
+   "FIELD4": "1444530098"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "134853",
+   "FIELD3": "coming of age",
+   "FIELD4": "1444530618"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "134853",
+   "FIELD3": "creative",
+   "FIELD4": "1444530620"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "134853",
+   "FIELD3": "happiness",
+   "FIELD4": "1444530631"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "134853",
+   "FIELD3": "imaginative",
+   "FIELD4": "1444530628"
+ },
+ {
+   "FIELD1": "364",
+   "FIELD2": "134853",
+   "FIELD3": "Pixar",
+   "FIELD4": "1444530633"
+ },
+ {
+   "FIELD1": "377",
+   "FIELD2": "54290",
+   "FIELD3": "Why the terrorists hate us",
+   "FIELD4": "1187054169"
+ },
+ {
+   "FIELD1": "380",
+   "FIELD2": "40614",
+   "FIELD3": "predictable",
+   "FIELD4": "1148077862"
+ },
+ {
+   "FIELD1": "402",
+   "FIELD2": "260",
+   "FIELD3": "coming of age",
+   "FIELD4": "1443393648"
+ },
+ {
+   "FIELD1": "402",
+   "FIELD2": "260",
+   "FIELD3": "space epic, science fiction, hero's journey",
+   "FIELD4": "1443393664"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "111",
+   "FIELD3": "cult film",
+   "FIELD4": "1354033605"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "111",
+   "FIELD3": "Martin Scorsese",
+   "FIELD4": "1354033608"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "111",
+   "FIELD3": "social commentary",
+   "FIELD4": "1354033602"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "247",
+   "FIELD3": "stylized",
+   "FIELD4": "1353702088"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "247",
+   "FIELD3": "surreal",
+   "FIELD4": "1353702083"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "247",
+   "FIELD3": "surrealism",
+   "FIELD4": "1353702082"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "247",
+   "FIELD3": "visceral",
+   "FIELD4": "1353702078"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "745",
+   "FIELD3": "animation",
+   "FIELD4": "1354033746"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1079",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1353703178"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1079",
+   "FIELD3": "dark humor",
+   "FIELD4": "1353703182"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1079",
+   "FIELD3": "John Cleese",
+   "FIELD4": "1353703171"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1079",
+   "FIELD3": "quirky",
+   "FIELD4": "1353703185"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1080",
+   "FIELD3": "Monty Python",
+   "FIELD4": "1354033667"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1089",
+   "FIELD3": "nonlinear",
+   "FIELD4": "1354033640"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1089",
+   "FIELD3": "organized crime",
+   "FIELD4": "1354033636"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1089",
+   "FIELD3": "Quentin Tarantino",
+   "FIELD4": "1354033638"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1219",
+   "FIELD3": "Alfred Hitchcock",
+   "FIELD4": "1354033644"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1219",
+   "FIELD3": "psychology",
+   "FIELD4": "1354033646"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1256",
+   "FIELD3": "Marx Brothers",
+   "FIELD4": "1354033718"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1258",
+   "FIELD3": "cult film",
+   "FIELD4": "1354033633"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1258",
+   "FIELD3": "psychology",
+   "FIELD4": "1354033630"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "1729",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1354033685"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "2288",
+   "FIELD3": "disturbing",
+   "FIELD4": "1354033600"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "2529",
+   "FIELD3": "post-apocalyptic",
+   "FIELD4": "1354033650"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "2529",
+   "FIELD3": "twist ending",
+   "FIELD4": "1354033653"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "3030",
+   "FIELD3": "atmospheric",
+   "FIELD4": "1354033596"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "3546",
+   "FIELD3": "insanity",
+   "FIELD4": "1353702162"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "3546",
+   "FIELD3": "psychological thriller",
+   "FIELD4": "1353702155"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "5618",
+   "FIELD3": "atmospheric",
+   "FIELD4": "1354033628"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "5618",
+   "FIELD3": "surreal",
+   "FIELD4": "1354033624"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "5662",
+   "FIELD3": "Dave Foley",
+   "FIELD4": "1354033569"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "6287",
+   "FIELD3": "Adam Sandler",
+   "FIELD4": "1354044970"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "6713",
+   "FIELD3": "Satoshi Kon",
+   "FIELD4": "1354033681"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "8188",
+   "FIELD3": "elegant",
+   "FIELD4": "1353701935"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27592",
+   "FIELD3": "stylized",
+   "FIELD4": "1354033620"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27592",
+   "FIELD3": "violent",
+   "FIELD4": "1354033611"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "depressing",
+   "FIELD4": "1353702390"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "disturbing",
+   "FIELD4": "1353702357"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "hallucinatory",
+   "FIELD4": "1353702345"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "paranoid",
+   "FIELD4": "1353702396"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "revenge",
+   "FIELD4": "1353702393"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "stylized",
+   "FIELD4": "1353702395"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "twist ending",
+   "FIELD4": "1353702400"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "27773",
+   "FIELD3": "vengeance",
+   "FIELD4": "1353702404"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "30745",
+   "FIELD3": "Takashi Miike",
+   "FIELD4": "1354033711"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "31658",
+   "FIELD3": "Studio Ghibli",
+   "FIELD4": "1354033715"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "52885",
+   "FIELD3": "anime",
+   "FIELD4": "1354033657"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "55820",
+   "FIELD3": "coen brothers",
+   "FIELD4": "1354033663"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "58559",
+   "FIELD3": "Batman",
+   "FIELD4": "1354033727"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "67997",
+   "FIELD3": "british",
+   "FIELD4": "1354033698"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "67997",
+   "FIELD3": "politics",
+   "FIELD4": "1354033700"
+ },
+ {
+   "FIELD1": "423",
+   "FIELD2": "67997",
+   "FIELD3": "satire",
+   "FIELD4": "1354033695"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5",
+   "FIELD3": "steve martin",
+   "FIELD4": "1140455432"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "150",
+   "FIELD3": "tom hanks",
+   "FIELD4": "1165548454"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "186",
+   "FIELD3": "hugh grant",
+   "FIELD4": "1140455419"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "215",
+   "FIELD3": "ethan hawke",
+   "FIELD4": "1165548716"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "236",
+   "FIELD3": "meg ryan",
+   "FIELD4": "1140455397"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "246",
+   "FIELD3": "school",
+   "FIELD4": "1140455370"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "260",
+   "FIELD3": "classic",
+   "FIELD4": "1140454408"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "300",
+   "FIELD3": "Ralph Fiennes",
+   "FIELD4": "1165548551"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "318",
+   "FIELD3": "Phenomenal!",
+   "FIELD4": "1140454312"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "337",
+   "FIELD3": "Johnny Depp***",
+   "FIELD4": "1140455226"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "350",
+   "FIELD3": "overrated",
+   "FIELD4": "1140455303"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "357",
+   "FIELD3": "didn't get it",
+   "FIELD4": "1140455255"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "377",
+   "FIELD3": "Sandra Bullock",
+   "FIELD4": "1140454879"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "520",
+   "FIELD3": "very funny!",
+   "FIELD4": "1140454299"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "529",
+   "FIELD3": "jodi foster",
+   "FIELD4": "1140455238"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "587",
+   "FIELD3": "sweet",
+   "FIELD4": "1140455292"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "628",
+   "FIELD3": "edward norton",
+   "FIELD4": "1140455195"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "661",
+   "FIELD3": "creepy good",
+   "FIELD4": "1140454443"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "904",
+   "FIELD3": "jimmy stewart",
+   "FIELD4": "1140455208"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1059",
+   "FIELD3": "claire daines",
+   "FIELD4": "1140455275"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1059",
+   "FIELD3": "clever",
+   "FIELD4": "1140455275"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1059",
+   "FIELD3": "Leonardo DiCaprio",
+   "FIELD4": "1140455275"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1059",
+   "FIELD3": "shakespeare",
+   "FIELD4": "1140455275"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1242",
+   "FIELD3": "denzel washington",
+   "FIELD4": "1140455181"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1250",
+   "FIELD3": "war",
+   "FIELD4": "1140455073"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1259",
+   "FIELD3": "r. phoneix",
+   "FIELD4": "1140455011"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1291",
+   "FIELD3": "cool",
+   "FIELD4": "1140454996"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1358",
+   "FIELD3": "billy bob thorton",
+   "FIELD4": "1140455032"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1376",
+   "FIELD3": "not too thrilled",
+   "FIELD4": "1140455126"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1517",
+   "FIELD3": "cheezy to the max!",
+   "FIELD4": "1140454281"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1635",
+   "FIELD3": "moody",
+   "FIELD4": "1165548220"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1639",
+   "FIELD3": "hillarious",
+   "FIELD4": "1140455102"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1801",
+   "FIELD3": "good but not accurate",
+   "FIELD4": "1140454574"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1954",
+   "FIELD3": "stallone",
+   "FIELD4": "1140455043"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1956",
+   "FIELD3": "il",
+   "FIELD4": "1165548392"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "1956",
+   "FIELD3": "lake forest",
+   "FIELD4": "1165548392"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2004",
+   "FIELD3": "not worth your time",
+   "FIELD4": "1140454610"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2012",
+   "FIELD3": "liked the other two better",
+   "FIELD4": "1140455152"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2019",
+   "FIELD3": "classic",
+   "FIELD4": "1140455086"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2085",
+   "FIELD3": "cute",
+   "FIELD4": "1140454548"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2174",
+   "FIELD3": "Micheal Keaton",
+   "FIELD4": "1140454821"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2369",
+   "FIELD3": "must see",
+   "FIELD4": "1140454589"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2396",
+   "FIELD3": "colin firth",
+   "FIELD4": "1165548675"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2396",
+   "FIELD3": "Gwenth Paltrow",
+   "FIELD4": "1165548675"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2396",
+   "FIELD3": "joseph fiennes",
+   "FIELD4": "1165548675"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2571",
+   "FIELD3": "philosophy",
+   "FIELD4": "1140454933"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2692",
+   "FIELD3": "cool and great music",
+   "FIELD4": "1140454393"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "2700",
+   "FIELD3": "stupidity",
+   "FIELD4": "1140454856"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3052",
+   "FIELD3": "controversial",
+   "FIELD4": "1140454805"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3113",
+   "FIELD3": "stupid",
+   "FIELD4": "1140455730"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3114",
+   "FIELD3": "Tom Hanks",
+   "FIELD4": "1140454833"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3260",
+   "FIELD3": "boring",
+   "FIELD4": "1140455703"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3361",
+   "FIELD3": "tim robbins",
+   "FIELD4": "1140455685"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3751",
+   "FIELD3": "mel gibson",
+   "FIELD4": "1140454892"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3785",
+   "FIELD3": "stupid",
+   "FIELD4": "1140455743"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3793",
+   "FIELD3": "can't stand rogue!",
+   "FIELD4": "1140454770"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3893",
+   "FIELD3": "renee z",
+   "FIELD4": "1140455496"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3978",
+   "FIELD3": "boring",
+   "FIELD4": "1140455549"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "3994",
+   "FIELD3": "predictable",
+   "FIELD4": "1140454952"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4016",
+   "FIELD3": "okay",
+   "FIELD4": "1140454522"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4041",
+   "FIELD3": "overrated",
+   "FIELD4": "1140455478"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4306",
+   "FIELD3": "witty!",
+   "FIELD4": "1140454779"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4351",
+   "FIELD3": "keanu reeves",
+   "FIELD4": "1140455511"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4369",
+   "FIELD3": "no desire to see this",
+   "FIELD4": "1140454634"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4641",
+   "FIELD3": "thora birch",
+   "FIELD4": "1140455465"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4701",
+   "FIELD3": "jakie chan",
+   "FIELD4": "1140455522"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4823",
+   "FIELD3": "john cusack",
+   "FIELD4": "1140455540"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "4890",
+   "FIELD3": "Gwenth Paltrow",
+   "FIELD4": "1140455564"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5064",
+   "FIELD3": "not by book",
+   "FIELD4": "1165548741"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5135",
+   "FIELD3": "nair",
+   "FIELD4": "1165548358"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5349",
+   "FIELD3": "tobey maguire",
+   "FIELD4": "1140454907"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5377",
+   "FIELD3": "books",
+   "FIELD4": "1140455343"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5377",
+   "FIELD3": "relationships",
+   "FIELD4": "1140455343"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5481",
+   "FIELD3": "mike myers",
+   "FIELD4": "1140455409"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "5812",
+   "FIELD3": "moore",
+   "FIELD4": "1165548495"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "6281",
+   "FIELD3": "collin farrel",
+   "FIELD4": "1140455383"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "6539",
+   "FIELD3": "I loved it! Seen it five times already!",
+   "FIELD4": "1140454336"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "6953",
+   "FIELD3": "Benicio Del Toro",
+   "FIELD4": "1165548439"
+ },
+ {
+   "FIELD1": "431",
+   "FIELD2": "8636",
+   "FIELD3": "the best comic adaptation!",
+   "FIELD4": "1140454370"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "65514",
+   "FIELD3": "kung fu",
+   "FIELD4": "1436621295"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "65514",
+   "FIELD3": "martial arts",
+   "FIELD4": "1436621295"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "65514",
+   "FIELD3": "well done",
+   "FIELD4": "1436621295"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "68954",
+   "FIELD3": "feel good",
+   "FIELD4": "1436621325"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "68954",
+   "FIELD3": "light",
+   "FIELD4": "1436621329"
+ },
+ {
+   "FIELD1": "446",
+   "FIELD2": "88125",
+   "FIELD3": "dark",
+   "FIELD4": "1436621257"
+ },
+ {
+   "FIELD1": "448",
+   "FIELD2": "260",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1444761481"
+ },
+ {
+   "FIELD1": "448",
+   "FIELD2": "260",
+   "FIELD3": "supernatural powers",
+   "FIELD4": "1444761492"
+ },
+ {
+   "FIELD1": "450",
+   "FIELD2": "107649",
+   "FIELD3": "Alex van Warmerdam",
+   "FIELD4": "1475737520"
+ },
+ {
+   "FIELD1": "450",
+   "FIELD2": "107649",
+   "FIELD3": "magical realism",
+   "FIELD4": "1475737516"
+ },
+ {
+   "FIELD1": "450",
+   "FIELD2": "107649",
+   "FIELD3": "weird",
+   "FIELD4": "1475737522"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "action",
+   "FIELD4": "1432308664"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "desert",
+   "FIELD4": "1432308674"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "Dieselpunk",
+   "FIELD4": "1432308755"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "Mel Gibson",
+   "FIELD4": "1432308659"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "Post apocalyptic",
+   "FIELD4": "1432308686"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "3703",
+   "FIELD3": "post-apocalyptic",
+   "FIELD4": "1432308656"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "44191",
+   "FIELD3": "dystopia",
+   "FIELD4": "1432308622"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "44191",
+   "FIELD3": "thought-provoking",
+   "FIELD4": "1432308624"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "106473",
+   "FIELD3": "animation",
+   "FIELD4": "1432309088"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "106473",
+   "FIELD3": "anime",
+   "FIELD4": "1432309076"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "106473",
+   "FIELD3": "based on a TV show",
+   "FIELD4": "1432309085"
+ },
+ {
+   "FIELD1": "456",
+   "FIELD2": "106473",
+   "FIELD3": "fantasy world",
+   "FIELD4": "1432309090"
+ },
+ {
+   "FIELD1": "468",
+   "FIELD2": "3676",
+   "FIELD3": "National Film Registry",
+   "FIELD4": "1296204035"
+ },
+ {
+   "FIELD1": "468",
+   "FIELD2": "5449",
+   "FIELD3": "Adam Sandler",
+   "FIELD4": "1296202619"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "55247",
+   "FIELD3": "adventure",
+   "FIELD4": "1446622291"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "55247",
+   "FIELD3": "freedom",
+   "FIELD4": "1446622248"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "55247",
+   "FIELD3": "road trip",
+   "FIELD4": "1446622240"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "55247",
+   "FIELD3": "self discovery",
+   "FIELD4": "1446622259"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "55247",
+   "FIELD3": "travel",
+   "FIELD4": "1446622390"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "106918",
+   "FIELD3": "Iceland",
+   "FIELD4": "1446830144"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "106918",
+   "FIELD3": "photography",
+   "FIELD4": "1446830153"
+ },
+ {
+   "FIELD1": "478",
+   "FIELD2": "106918",
+   "FIELD3": "travel",
+   "FIELD4": "1446830142"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "8369",
+   "FIELD3": "who done it",
+   "FIELD4": "1339456173"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "70286",
+   "FIELD3": "aliens",
+   "FIELD4": "1339283926"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "70286",
+   "FIELD3": "humor",
+   "FIELD4": "1339283929"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "70286",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1339283933"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "70286",
+   "FIELD3": "violence",
+   "FIELD4": "1339283935"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "78349",
+   "FIELD3": "claustrophobic",
+   "FIELD4": "1339283636"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "78349",
+   "FIELD3": "experiment",
+   "FIELD4": "1339283627"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "78349",
+   "FIELD3": "group psychology",
+   "FIELD4": "1339283610"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "78349",
+   "FIELD3": "psychological",
+   "FIELD4": "1339283617"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "94777",
+   "FIELD3": "aliens",
+   "FIELD4": "1339284270"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "94777",
+   "FIELD3": "franchise",
+   "FIELD4": "1339284250"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "94777",
+   "FIELD3": "funny",
+   "FIELD4": "1339284240"
+ },
+ {
+   "FIELD1": "480",
+   "FIELD2": "94777",
+   "FIELD3": "time travel",
+   "FIELD4": "1339284259"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "260",
+   "FIELD3": "George Lucas",
+   "FIELD4": "1437000955"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "260",
+   "FIELD3": "starwars",
+   "FIELD4": "1437000940"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "1900",
+   "FIELD3": "brother sister relationship",
+   "FIELD4": "1437107499"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "1900",
+   "FIELD3": "sad",
+   "FIELD4": "1437107475"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "1900",
+   "FIELD3": "siblings",
+   "FIELD4": "1437107491"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "2361",
+   "FIELD3": "cult film",
+   "FIELD4": "1437105893"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "117533",
+   "FIELD3": "big brother",
+   "FIELD4": "1437004053"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "117533",
+   "FIELD3": "documentary",
+   "FIELD4": "1437004053"
+ },
+ {
+   "FIELD1": "481",
+   "FIELD2": "117533",
+   "FIELD3": "privacy",
+   "FIELD4": "1437004053"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "1",
+   "FIELD3": "Pixar",
+   "FIELD4": "1292956344"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "47",
+   "FIELD3": "psychology",
+   "FIELD4": "1292956276"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "47",
+   "FIELD3": "twist ending",
+   "FIELD4": "1292956362"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "296",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1292956439"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "296",
+   "FIELD3": "Quentin Tarantino",
+   "FIELD4": "1292956435"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "778",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1292956194"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "1089",
+   "FIELD3": "organized crime",
+   "FIELD4": "1292956420"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "1089",
+   "FIELD3": "Quentin Tarantino",
+   "FIELD4": "1292956416"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2542",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1292956446"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2542",
+   "FIELD3": "Guy Ritchie",
+   "FIELD4": "1292956448"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2542",
+   "FIELD3": "organized crime",
+   "FIELD4": "1292956450"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2692",
+   "FIELD3": "nonlinear",
+   "FIELD4": "1292956226"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2692",
+   "FIELD3": "time travel",
+   "FIELD4": "1292956392"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2959",
+   "FIELD3": "dark comedy",
+   "FIELD4": "1292956481"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2959",
+   "FIELD3": "psychology",
+   "FIELD4": "1292956476"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "2959",
+   "FIELD3": "twist ending",
+   "FIELD4": "1292956479"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "3114",
+   "FIELD3": "animation",
+   "FIELD4": "1292956346"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "3949",
+   "FIELD3": "addiction",
+   "FIELD4": "1292956422"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "3949",
+   "FIELD3": "psychology",
+   "FIELD4": "1292956425"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "4011",
+   "FIELD3": "Guy Ritchie",
+   "FIELD4": "1292956203"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "4011",
+   "FIELD3": "twist ending",
+   "FIELD4": "1292956205"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "5608",
+   "FIELD3": "psychology",
+   "FIELD4": "1292956490"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "6016",
+   "FIELD3": "multiple storylines",
+   "FIELD4": "1292956518"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "40148",
+   "FIELD3": "guy ritchie",
+   "FIELD4": "1292956408"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "47099",
+   "FIELD3": "based on a true story",
+   "FIELD4": "1292956431"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "60072",
+   "FIELD3": "assassin",
+   "FIELD4": "1292956189"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "62849",
+   "FIELD3": "Drugs",
+   "FIELD4": "1292956230"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "62849",
+   "FIELD3": "Guy Ritchie",
+   "FIELD4": "1292956234"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "62849",
+   "FIELD3": "twist ending",
+   "FIELD4": "1292956236"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "68157",
+   "FIELD3": "Quentin Tarantino",
+   "FIELD4": "1292956453"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "74458",
+   "FIELD3": "psychological",
+   "FIELD4": "1292956215"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "74458",
+   "FIELD3": "twist ending",
+   "FIELD4": "1292956212"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "77455",
+   "FIELD3": "renegade art",
+   "FIELD4": "1292956306"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "78499",
+   "FIELD3": "Pixar",
+   "FIELD4": "1292956196"
+ },
+ {
+   "FIELD1": "501",
+   "FIELD2": "79132",
+   "FIELD3": "alternate reality",
+   "FIELD4": "1292956469"
+ },
+ {
+   "FIELD1": "503",
+   "FIELD2": "260",
+   "FIELD3": "Science Fiction",
+   "FIELD4": "1432365802"
+ },
+ {
+   "FIELD1": "503",
+   "FIELD2": "260",
+   "FIELD3": "space",
+   "FIELD4": "1432365814"
+ },
+ {
+   "FIELD1": "512",
+   "FIELD2": "74458",
+   "FIELD3": "Psychological Thriller",
+   "FIELD4": "1434169401"
+ },
+ {
+   "FIELD1": "512",
+   "FIELD2": "79132",
+   "FIELD3": "Intrigued",
+   "FIELD4": "1434169472"
+ },
+ {
+   "FIELD1": "520",
+   "FIELD2": "4322",
+   "FIELD3": "baseball",
+   "FIELD4": "1146596187"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "comedy of manners",
+   "FIELD4": "1243454358"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "Disney",
+   "FIELD4": "1243454364"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "Disney studios",
+   "FIELD4": "1243454367"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "Julie Andrews",
+   "FIELD4": "1243454386"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "multiple roles",
+   "FIELD4": "1243454371"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "musical",
+   "FIELD4": "1243454374"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1028",
+   "FIELD3": "villain nonexistent or not needed for good story",
+   "FIELD4": "1243454382"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "80's classic",
+   "FIELD4": "1243454483"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "dance",
+   "FIELD4": "1243454500"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "girlie movie",
+   "FIELD4": "1243454518"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "music",
+   "FIELD4": "1243454488"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "musical parodies",
+   "FIELD4": "1243454503"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1088",
+   "FIELD3": "rich families",
+   "FIELD4": "1243454508"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1258",
+   "FIELD3": "disturbing",
+   "FIELD4": "1243454832"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1258",
+   "FIELD3": "Nudity (Full Frontal - Notable)",
+   "FIELD4": "1243454840"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1258",
+   "FIELD3": "Nudity (Full Frontal)",
+   "FIELD4": "1243454842"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1258",
+   "FIELD3": "psychological",
+   "FIELD4": "1243454846"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1258",
+   "FIELD3": "violent",
+   "FIELD4": "1243454848"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1997",
+   "FIELD3": "demons",
+   "FIELD4": "1243454875"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1997",
+   "FIELD3": "horror",
+   "FIELD4": "1243454878"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1997",
+   "FIELD3": "possession",
+   "FIELD4": "1243454880"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "1997",
+   "FIELD3": "scary",
+   "FIELD4": "1243454882"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "2942",
+   "FIELD3": "dance",
+   "FIELD4": "1243454447"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "2942",
+   "FIELD3": "girlie movie",
+   "FIELD4": "1243454450"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "2942",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1243454452"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "2942",
+   "FIELD3": "strippers",
+   "FIELD4": "1243454454"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "4973",
+   "FIELD3": "comedy",
+   "FIELD4": "1243510202"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "4973",
+   "FIELD3": "drama",
+   "FIELD4": "1243510204"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "4973",
+   "FIELD3": "notable soundtrack",
+   "FIELD4": "1243510209"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "4973",
+   "FIELD3": "quirky",
+   "FIELD4": "1243510212"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6218",
+   "FIELD3": "football",
+   "FIELD4": "1243509668"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6218",
+   "FIELD3": "Funny",
+   "FIELD4": "1243509674"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6218",
+   "FIELD3": "Keira Knightley",
+   "FIELD4": "1243509670"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6218",
+   "FIELD3": "love",
+   "FIELD4": "1243509684"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "funny",
+   "FIELD4": "1243454300"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "Jack Black",
+   "FIELD4": "1243454312"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "music",
+   "FIELD4": "1243454317"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "not only for kids",
+   "FIELD4": "1243454321"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "Rock",
+   "FIELD4": "1243454333"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6863",
+   "FIELD3": "rock and roll",
+   "FIELD4": "1243454326"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "british",
+   "FIELD4": "1243454933"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "christmas",
+   "FIELD4": "1243454936"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "ensemble cast",
+   "FIELD4": "1243454939"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "Keira Knightley",
+   "FIELD4": "1243454943"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "love",
+   "FIELD4": "1243454946"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "multiple storylines",
+   "FIELD4": "1243454948"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "Nudity (Topless - Notable)",
+   "FIELD4": "1243454950"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1243454952"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "6942",
+   "FIELD3": "Romance",
+   "FIELD4": "1243454954"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "8533",
+   "FIELD3": "covers a lifespan",
+   "FIELD4": "1243455160"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "8533",
+   "FIELD3": "memories",
+   "FIELD4": "1243455166"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "comedy",
+   "FIELD4": "1243454586"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "crude",
+   "FIELD4": "1243454590"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "funny",
+   "FIELD4": "1243454588"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "nerds",
+   "FIELD4": "1243454598"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "Nudity (Topless - Notable)",
+   "FIELD4": "1243454603"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1243454610"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "35836",
+   "FIELD3": "sex",
+   "FIELD4": "1243454608"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "45720",
+   "FIELD3": "fashion",
+   "FIELD4": "1243454978"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "45720",
+   "FIELD3": "New York",
+   "FIELD4": "1243454980"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "45720",
+   "FIELD3": "Paris",
+   "FIELD4": "1243454982"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "45720",
+   "FIELD3": "Streep strong & funny",
+   "FIELD4": "1243454985"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "59725",
+   "FIELD3": "fashion",
+   "FIELD4": "1243455007"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "59725",
+   "FIELD3": "New York City",
+   "FIELD4": "1243455012"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "59725",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1243455014"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "59725",
+   "FIELD3": "R:strong sexual content",
+   "FIELD4": "1243455020"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "59725",
+   "FIELD3": "romance",
+   "FIELD4": "1243455018"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "63131",
+   "FIELD3": "funny",
+   "FIELD4": "1243509641"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "63131",
+   "FIELD3": "obvious plot",
+   "FIELD4": "1243509645"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "63992",
+   "FIELD3": "romance",
+   "FIELD4": "1243455092"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "63992",
+   "FIELD3": "Teen movie",
+   "FIELD4": "1243455095"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "63992",
+   "FIELD3": "vampires",
+   "FIELD4": "1243455099"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64957",
+   "FIELD3": "Brad Pitt",
+   "FIELD4": "1243455053"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64957",
+   "FIELD3": "cinematography",
+   "FIELD4": "1243455057"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64957",
+   "FIELD3": "drama",
+   "FIELD4": "1243455060"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64969",
+   "FIELD3": "easily confused with other movie(s) (title)",
+   "FIELD4": "1243454548"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64969",
+   "FIELD3": "funny",
+   "FIELD4": "1243454556"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64969",
+   "FIELD3": "Jim carrey",
+   "FIELD4": "1243454553"
+ },
+ {
+   "FIELD1": "531",
+   "FIELD2": "64969",
+   "FIELD3": "Zooey Deschanel",
+   "FIELD4": "1243454561"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "3176",
+   "FIELD3": "Gwyneth Paltrow",
+   "FIELD4": "1301715429"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "3176",
+   "FIELD3": "Jude Law",
+   "FIELD4": "1301715415"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "3707",
+   "FIELD3": "Nudity (Rear)",
+   "FIELD4": "1301284184"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "3707",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1301284182"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "3707",
+   "FIELD3": "sexy food",
+   "FIELD4": "1301284180"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "BDSM",
+   "FIELD4": "1301785972"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Blindfold",
+   "FIELD4": "1301785976"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Bondage",
+   "FIELD4": "1301785990"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Domination",
+   "FIELD4": "1301785971"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Fetish",
+   "FIELD4": "1301785980"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Gag",
+   "FIELD4": "1301785974"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Spanked",
+   "FIELD4": "1301785983"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Submission",
+   "FIELD4": "1301785988"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Tied",
+   "FIELD4": "1301785981"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "5984",
+   "FIELD3": "Udo Kier",
+   "FIELD4": "1301785978"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "7155",
+   "FIELD3": "Nudity (Topless - Notable)",
+   "FIELD4": "1334013574"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "7155",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1334013570"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "39421",
+   "FIELD3": "Nudity (Topless)",
+   "FIELD4": "1334013436"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "39421",
+   "FIELD3": "porn",
+   "FIELD4": "1334013433"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "48780",
+   "FIELD3": "based on a book",
+   "FIELD4": "1301715225"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "48780",
+   "FIELD3": "twist ending",
+   "FIELD4": "1301715231"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "53318",
+   "FIELD3": "notable nudity",
+   "FIELD4": "1301196436"
+ },
+ {
+   "FIELD1": "546",
+   "FIELD2": "53318",
+   "FIELD3": "Nudity (Full Frontal)",
+   "FIELD4": "1301196425"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "215",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849999"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "293",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849862"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "306",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849839"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "319",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849790"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "364",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849955"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "541",
+   "FIELD3": "afi",
+   "FIELD4": "1182393913"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "588",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849969"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "599",
+   "FIELD3": "dvd",
+   "FIELD4": "1388422564"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "599",
+   "FIELD3": "holes60s",
+   "FIELD4": "1388820371"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "757",
+   "FIELD3": "getdvd",
+   "FIELD4": "1423201850"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "914",
+   "FIELD3": "holes60s",
+   "FIELD4": "1342850735"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "946",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348245"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "954",
+   "FIELD3": "afi",
+   "FIELD4": "1182393876"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1153",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187818"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1172",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849456"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1197",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849599"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1209",
+   "FIELD3": "holes60s",
+   "FIELD4": "1351319934"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1211",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849466"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1232",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973832"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1245",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849804"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1260",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187750"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1272",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849087"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1273",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849477"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1281",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348178"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1281",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583274"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1283",
+   "FIELD3": "afi",
+   "FIELD4": "1182394030"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1283",
+   "FIELD3": "hdtv",
+   "FIELD4": "1199396362"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1572",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973703"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1935",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348396"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1942",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348211"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "1957",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849494"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2028",
+   "FIELD3": "afi",
+   "FIELD4": "1182394053"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2028",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200784012"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2028",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849945"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2109",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849272"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2178",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849166"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2182",
+   "FIELD3": "tcm",
+   "FIELD4": "1412347392"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2202",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348261"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2330",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849749"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2677",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849900"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2730",
+   "FIELD3": "getdvd",
+   "FIELD4": "1350531508"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2730",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849220"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2747",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583080"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2857",
+   "FIELD3": "holes60s",
+   "FIELD4": "1342850705"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2920",
+   "FIELD3": "getdvd",
+   "FIELD4": "1412348038"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2920",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348038"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2927",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348319"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2936",
+   "FIELD3": "afi",
+   "FIELD4": "1182393939"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "2936",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348275"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3022",
+   "FIELD3": "afi",
+   "FIELD4": "1182393819"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3089",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348191"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3111",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849685"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3246",
+   "FIELD3": "holes90s",
+   "FIELD4": "1342849768"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3384",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849030"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3415",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973557"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3498",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849114"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3539",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583329"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3629",
+   "FIELD3": "afi",
+   "FIELD4": "1182433856"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3629",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200784036"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3632",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348295"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3634",
+   "FIELD3": "getdvd",
+   "FIELD4": "1418986019"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3634",
+   "FIELD3": "holes60s",
+   "FIELD4": "1418986015"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3671",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849229"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3679",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849435"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3742",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973400"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3789",
+   "FIELD3": "holes60s",
+   "FIELD4": "1342850721"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3811",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849524"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "3947",
+   "FIELD3": "holes70s",
+   "FIELD4": "1431088744"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4103",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849627"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4262",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849544"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4326",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849552"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4327",
+   "FIELD3": "holes60s",
+   "FIELD4": "1342850801"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4437",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849298"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4712",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849242"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4763",
+   "FIELD3": "getdvd",
+   "FIELD4": "1471010946"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "4928",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849195"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5169",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187923"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5198",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849514"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5289",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187738"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5464",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850481"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5747",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849443"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5791",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850231"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5795",
+   "FIELD3": "tosee",
+   "FIELD4": "1475705682"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "5956",
+   "FIELD3": "dvd",
+   "FIELD4": "1259388129"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6229",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849313"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6433",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973308"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6515",
+   "FIELD3": "tcm",
+   "FIELD4": "1190475823"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6643",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973230"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6783",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973251"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6830",
+   "FIELD3": "tcm",
+   "FIELD4": "1190475890"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6874",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850598"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6981",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973754"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6983",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348440"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "6985",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973328"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7195",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187983"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7243",
+   "FIELD3": "afi",
+   "FIELD4": "1182394001"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7243",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200784002"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7335",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187908"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7438",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850493"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7792",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849103"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "7926",
+   "FIELD3": "getdvd",
+   "FIELD4": "1412347952"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8125",
+   "FIELD3": "afi",
+   "FIELD4": "1182393855"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8128",
+   "FIELD3": "holes80s",
+   "FIELD4": "1342849418"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8154",
+   "FIELD3": "holes60s",
+   "FIELD4": "1342850820"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8195",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973620"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8207",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849135"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8236",
+   "FIELD3": "tcm",
+   "FIELD4": "1190475838"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8494",
+   "FIELD3": "dvd",
+   "FIELD4": "1254390631"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8584",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583430"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8645",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850358"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8751",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187687"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8765",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187626"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8766",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187878"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "8767",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187947"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "25805",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973445"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "25927",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348360"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "25927",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187934"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "26150",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973817"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "26151",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973505"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "26366",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849254"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "31770",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187673"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "34517",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583581"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "37741",
+   "FIELD3": "toplist05",
+   "FIELD4": "1378985294"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "38304",
+   "FIELD3": "toplist05",
+   "FIELD4": "1378985376"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "39183",
+   "FIELD3": "toplist05",
+   "FIELD4": "1334343486"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "40629",
+   "FIELD3": "toplist05",
+   "FIELD4": "1378985440"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "40819",
+   "FIELD3": "toplist05",
+   "FIELD4": "1378985328"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "41585",
+   "FIELD3": "tcm",
+   "FIELD4": "1189187574"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "41863",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165976"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "41997",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200107294"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "41997",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850302"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "42217",
+   "FIELD3": "sightsound",
+   "FIELD4": "1343973482"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "44199",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165844"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "44555",
+   "FIELD3": "toplist06",
+   "FIELD4": "1235048573"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "45028",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165941"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "45210",
+   "FIELD3": "toplist06",
+   "FIELD4": "1198810519"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "46578",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165894"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "46664",
+   "FIELD3": "holes40s",
+   "FIELD4": "1412348651"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "46664",
+   "FIELD3": "tcm",
+   "FIELD4": "1412348651"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "46723",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165832"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "47099",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197164385"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "47274",
+   "FIELD3": "holes70s",
+   "FIELD4": "1342849207"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "47423",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197164296"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "47629",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165707"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48394",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200549984"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48394",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850387"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48516",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165676"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48696",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165862"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48738",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197164312"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "48774",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165663"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "49824",
+   "FIELD3": "toplist06",
+   "FIELD4": "1197165695"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "49917",
+   "FIELD3": "toplist06",
+   "FIELD4": "1268555186"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "50068",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850218"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "51540",
+   "FIELD3": "toplist07",
+   "FIELD4": "1192323038"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "52241",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197122754"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "52281",
+   "FIELD3": "hdtv",
+   "FIELD4": "1200875555"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "52281",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850259"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "52579",
+   "FIELD3": "getdvd",
+   "FIELD4": "1471606640"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "52967",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197313756"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "53000",
+   "FIELD3": "toplist07",
+   "FIELD4": "1198811122"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "53123",
+   "FIELD3": "toplist07",
+   "FIELD4": "1187738100"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "53894",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197122145"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "53953",
+   "FIELD3": "getdvd",
+   "FIELD4": "1467870755"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "54272",
+   "FIELD3": "toplist07",
+   "FIELD4": "1187738146"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "54286",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197122822"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "54513",
+   "FIELD3": "toplist07",
+   "FIELD4": "1187737659"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "54881",
+   "FIELD3": "toplist07",
+   "FIELD4": "1268555304"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55052",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197122048"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55063",
+   "FIELD3": "toplist08",
+   "FIELD4": "1228486494"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55069",
+   "FIELD3": "holes00s",
+   "FIELD4": "1472570165"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55069",
+   "FIELD3": "toplist07",
+   "FIELD4": "1301765688"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55118",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197121987"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55247",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197121953"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55253",
+   "FIELD3": "toplist07",
+   "FIELD4": "1268555286"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55269",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197122030"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55276",
+   "FIELD3": "toplist07",
+   "FIELD4": "1195959915"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55280",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850401"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55363",
+   "FIELD3": "getdvd",
+   "FIELD4": "1412346850"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55363",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850280"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55442",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850172"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55442",
+   "FIELD3": "toplist07",
+   "FIELD4": "1268555437"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55820",
+   "FIELD3": "toplist07",
+   "FIELD4": "1197121965"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "55946",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113630"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56015",
+   "FIELD3": "tcm",
+   "FIELD4": "1412347417"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56152",
+   "FIELD3": "toplist07",
+   "FIELD4": "1198811180"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56286",
+   "FIELD3": "toplist07",
+   "FIELD4": "1268555500"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56367",
+   "FIELD3": "toplist07",
+   "FIELD4": "1198968553"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56607",
+   "FIELD3": "toplist07",
+   "FIELD4": "1200334592"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56782",
+   "FIELD3": "toplist07",
+   "FIELD4": "1200334609"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56788",
+   "FIELD3": "toplist07",
+   "FIELD4": "1201665448"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "56805",
+   "FIELD3": "toplist07",
+   "FIELD4": "1198968631"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "57669",
+   "FIELD3": "toplist08",
+   "FIELD4": "1250738298"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "58191",
+   "FIELD3": "toplist08",
+   "FIELD4": "1223243755"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "58879",
+   "FIELD3": "toplist08",
+   "FIELD4": "1207957343"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "60069",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230814631"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "60766",
+   "FIELD3": "toplist08",
+   "FIELD4": "1223243682"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61024",
+   "FIELD3": "toplist08",
+   "FIELD4": "1223243801"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61236",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850181"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61236",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230870494"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61240",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850379"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61240",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230814624"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61323",
+   "FIELD3": "toplist08",
+   "FIELD4": "1223244145"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "61357",
+   "FIELD3": "toplist08",
+   "FIELD4": "1222269690"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "63082",
+   "FIELD3": "toplist08",
+   "FIELD4": "1228486518"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "63876",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230814303"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "64614",
+   "FIELD3": "toplist08",
+   "FIELD4": "1250440712"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "64620",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230814286"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "64622",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230942216"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "64701",
+   "FIELD3": "toplist08",
+   "FIELD4": "1230869509"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "64839",
+   "FIELD3": "toplist08",
+   "FIELD4": "1236951337"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "66665",
+   "FIELD3": "toplist09",
+   "FIELD4": "1253860576"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67087",
+   "FIELD3": "toplist09",
+   "FIELD4": "1259384470"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67255",
+   "FIELD3": "toplist10",
+   "FIELD4": "1270485757"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67429",
+   "FIELD3": "toplist08",
+   "FIELD4": "1238823068"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67665",
+   "FIELD3": "getdvd",
+   "FIELD4": "1321564884"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67665",
+   "FIELD3": "toplist09",
+   "FIELD4": "1250742907"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "67997",
+   "FIELD3": "toplist09",
+   "FIELD4": "1250742829"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "68157",
+   "FIELD3": "toplist09",
+   "FIELD4": "1253860562"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "68954",
+   "FIELD3": "holes00s",
+   "FIELD4": "1342850438"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "69481",
+   "FIELD3": "toplist09",
+   "FIELD4": "1250742859"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "70286",
+   "FIELD3": "toplist09",
+   "FIELD4": "1250742877"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "70293",
+   "FIELD3": "toplist09",
+   "FIELD4": "1253860588"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "71108",
+   "FIELD3": "toplist09",
+   "FIELD4": "1292047039"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "71464",
+   "FIELD3": "toplist09",
+   "FIELD4": "1259383811"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "71745",
+   "FIELD3": "toplist09",
+   "FIELD4": "1259383809"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72011",
+   "FIELD3": "toplist09",
+   "FIELD4": "1262145753"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72131",
+   "FIELD3": "toplist09",
+   "FIELD4": "1257694906"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72176",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113567"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72226",
+   "FIELD3": "toplist09",
+   "FIELD4": "1259383836"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72395",
+   "FIELD3": "toplist09",
+   "FIELD4": "1262146022"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72720",
+   "FIELD3": "toplist09",
+   "FIELD4": "1271429973"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "72741",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113594"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "73023",
+   "FIELD3": "toplist09",
+   "FIELD4": "1267280510"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "74324",
+   "FIELD3": "toplist10",
+   "FIELD4": "1312868042"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "74458",
+   "FIELD3": "toplist10",
+   "FIELD4": "1276350948"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "74545",
+   "FIELD3": "toplist10",
+   "FIELD4": "1276350928"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "77455",
+   "FIELD3": "getdvd",
+   "FIELD4": "1446815214"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "77455",
+   "FIELD3": "toplist10",
+   "FIELD4": "1292077803"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "78039",
+   "FIELD3": "toplist10",
+   "FIELD4": "1296798992"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "78499",
+   "FIELD3": "toplist10",
+   "FIELD4": "1293381435"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "78574",
+   "FIELD3": "toplist10",
+   "FIELD4": "1281363877"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "78653",
+   "FIELD3": "toplist09",
+   "FIELD4": "1277386636"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "79132",
+   "FIELD3": "toplist10",
+   "FIELD4": "1279986154"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "79242",
+   "FIELD3": "toplist10",
+   "FIELD4": "1281363890"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "80463",
+   "FIELD3": "toplist10",
+   "FIELD4": "1287199615"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "80489",
+   "FIELD3": "toplist10",
+   "FIELD4": "1294976085"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81562",
+   "FIELD3": "toplist10",
+   "FIELD4": "1292077909"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81591",
+   "FIELD3": "toplist10",
+   "FIELD4": "1296799009"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81786",
+   "FIELD3": "getdvd",
+   "FIELD4": "1468248495"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81786",
+   "FIELD3": "toplist11",
+   "FIELD4": "1312868144"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81845",
+   "FIELD3": "toplist10",
+   "FIELD4": "1296798962"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "81932",
+   "FIELD3": "toplist10",
+   "FIELD4": "1296799034"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "82313",
+   "FIELD3": "tivo",
+   "FIELD4": "1476650744"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "82459",
+   "FIELD3": "toplist10",
+   "FIELD4": "1296798978"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "82463",
+   "FIELD3": "toplist10",
+   "FIELD4": "1299563653"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "83976",
+   "FIELD3": "toplist11",
+   "FIELD4": "1328012694"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "85394",
+   "FIELD3": "toplist11",
+   "FIELD4": "1312868243"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "86320",
+   "FIELD3": "toplist11",
+   "FIELD4": "1317998755"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "86833",
+   "FIELD3": "toplist11",
+   "FIELD4": "1312868088"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "87304",
+   "FIELD3": "toplist11",
+   "FIELD4": "1312868078"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "88129",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322848734"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "88235",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322849030"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "88810",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322894457"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "89260",
+   "FIELD3": "toplist11",
+   "FIELD4": "1329513993"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "89470",
+   "FIELD3": "toplist11",
+   "FIELD4": "1317998768"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "89492",
+   "FIELD3": "toplist11",
+   "FIELD4": "1317998745"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "89759",
+   "FIELD3": "toplist11",
+   "FIELD4": "1327491628"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "89804",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322848784"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "90057",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322848999"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "90376",
+   "FIELD3": "toplist11",
+   "FIELD4": "1327491698"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "90439",
+   "FIELD3": "toplist11",
+   "FIELD4": "1332487973"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "90531",
+   "FIELD3": "toplist11",
+   "FIELD4": "1327491714"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "90866",
+   "FIELD3": "toplist11",
+   "FIELD4": "1327491687"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "91077",
+   "FIELD3": "toplist11",
+   "FIELD4": "1322848957"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "94931",
+   "FIELD3": "toplist12",
+   "FIELD4": "1355599327"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "94959",
+   "FIELD3": "toplist12",
+   "FIELD4": "1342275142"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "94969",
+   "FIELD3": "getdvd",
+   "FIELD4": "1409381147"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "95135",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966882"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "95449",
+   "FIELD3": "toplist12",
+   "FIELD4": "1356967567"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "95558",
+   "FIELD3": "toplist12",
+   "FIELD4": "1348198533"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "95761",
+   "FIELD3": "dvd",
+   "FIELD4": "1387360646"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96417",
+   "FIELD3": "dvd",
+   "FIELD4": "1367718836"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96588",
+   "FIELD3": "toplist12",
+   "FIELD4": "1355599298"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96610",
+   "FIELD3": "dvd",
+   "FIELD4": "1361888026"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96610",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966811"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96728",
+   "FIELD3": "toplist12",
+   "FIELD4": "1355599008"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96811",
+   "FIELD3": "toplist12",
+   "FIELD4": "1356623017"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96832",
+   "FIELD3": "dvd",
+   "FIELD4": "1369217683"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "96832",
+   "FIELD3": "toplist12",
+   "FIELD4": "1356409181"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97304",
+   "FIELD3": "toplist12",
+   "FIELD4": "1353063038"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97673",
+   "FIELD3": "toplist13",
+   "FIELD4": "1383626018"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97752",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966835"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97921",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966859"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97923",
+   "FIELD3": "toplist12",
+   "FIELD4": "1356623118"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "97938",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966894"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "98154",
+   "FIELD3": "toplist12",
+   "FIELD4": "1354966827"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "98961",
+   "FIELD3": "toplist12",
+   "FIELD4": "1355938883"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "99114",
+   "FIELD3": "toplist12",
+   "FIELD4": "1357543606"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "99149",
+   "FIELD3": "toplist12",
+   "FIELD4": "1356273884"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "101285",
+   "FIELD3": "getdvd",
+   "FIELD4": "1386729453"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "101525",
+   "FIELD3": "toplist12",
+   "FIELD4": "1386245688"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "101895",
+   "FIELD3": "toplist13",
+   "FIELD4": "1383626036"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "102194",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386658060"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "102469",
+   "FIELD3": "getdvd",
+   "FIELD4": "1387083948"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "103107",
+   "FIELD3": "toplist13",
+   "FIELD4": "1396017727"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "103372",
+   "FIELD3": "toplist13",
+   "FIELD4": "1383625950"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "103449",
+   "FIELD3": "dvd",
+   "FIELD4": "1378132522"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "103624",
+   "FIELD3": "toplist13",
+   "FIELD4": "1388209512"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "103688",
+   "FIELD3": "dvd",
+   "FIELD4": "1472303875"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "105197",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386657913"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "105355",
+   "FIELD3": "toplist13",
+   "FIELD4": "1397129838"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "105504",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386245656"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "106100",
+   "FIELD3": "toplist13",
+   "FIELD4": "1389766232"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "106766",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386658220"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "106916",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386657846"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "106920",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386657798"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "107141",
+   "FIELD3": "toplist13",
+   "FIELD4": "1386946018"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "107636",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583144"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "109374",
+   "FIELD3": "toplist14",
+   "FIELD4": "1402760218"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "110871",
+   "FIELD3": "getdvd",
+   "FIELD4": "1399051398"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "111249",
+   "FIELD3": "getdvd",
+   "FIELD4": "1423194272"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "111251",
+   "FIELD3": "dvd",
+   "FIELD4": "1410947141"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "111251",
+   "FIELD3": "toplist14",
+   "FIELD4": "1446283752"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "111505",
+   "FIELD3": "getdvd",
+   "FIELD4": "1400501925"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "111622",
+   "FIELD3": "toplist14",
+   "FIELD4": "1420131617"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112070",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113970"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112183",
+   "FIELD3": "toplist14",
+   "FIELD4": "1416281804"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112290",
+   "FIELD3": "toplist14",
+   "FIELD4": "1411137921"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112515",
+   "FIELD3": "getdvd",
+   "FIELD4": "1423194952"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112515",
+   "FIELD3": "toplist14",
+   "FIELD4": "1418485385"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112550",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470238109"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112552",
+   "FIELD3": "toplist14",
+   "FIELD4": "1417010184"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112556",
+   "FIELD3": "toplist14",
+   "FIELD4": "1412347244"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "112852",
+   "FIELD3": "toplist14",
+   "FIELD4": "1407510485"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "113064",
+   "FIELD3": "getdvd",
+   "FIELD4": "1423194143"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "114254",
+   "FIELD3": "getdvd",
+   "FIELD4": "1450365156"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "114342",
+   "FIELD3": "toplist14",
+   "FIELD4": "1417010271"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "114459",
+   "FIELD3": "getdvd",
+   "FIELD4": "1412474417"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "114662",
+   "FIELD3": "toplist14",
+   "FIELD4": "1423131235"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "115139",
+   "FIELD3": "tcm",
+   "FIELD4": "1413426713"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "115569",
+   "FIELD3": "toplist14",
+   "FIELD4": "1431187332"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "115713",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446211131"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "116161",
+   "FIELD3": "toplist14",
+   "FIELD4": "1417010500"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "116797",
+   "FIELD3": "toplist14",
+   "FIELD4": "1425780053"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "117176",
+   "FIELD3": "toplist14",
+   "FIELD4": "1417010208"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "117533",
+   "FIELD3": "dvd",
+   "FIELD4": "1473748292"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "117533",
+   "FIELD3": "getdvd",
+   "FIELD4": "1446815098"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "117533",
+   "FIELD3": "toplist14",
+   "FIELD4": "1417010466"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "118700",
+   "FIELD3": "getdvd",
+   "FIELD4": "1446815138"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "118700",
+   "FIELD3": "toplist14",
+   "FIELD4": "1423224182"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "118880",
+   "FIELD3": "getdvd",
+   "FIELD4": "1449757705"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "118880",
+   "FIELD3": "toplist14",
+   "FIELD4": "1449757002"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "122882",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470112098"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "122882",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755519"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "123663",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583542"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "123695",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583459"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127108",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583101"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127108",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449756138"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127114",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449756046"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127144",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583306"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127206",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470111984"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "127212",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113822"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "128235",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583410"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "128360",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755822"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "128512",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470112064"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "128606",
+   "FIELD3": "toplist15",
+   "FIELD4": "1468592921"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "131796",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583367"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "132458",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583517"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "132547",
+   "FIELD3": "dvd",
+   "FIELD4": "1473748244"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "132549",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583387"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "132800",
+   "FIELD3": "getdvd",
+   "FIELD4": "1454164221"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "133645",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449754606"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "133771",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470111738"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "134130",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446210938"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "134853",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446211185"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "134859",
+   "FIELD3": "getdvd",
+   "FIELD4": "1470111811"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "134859",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755731"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "134881",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446283359"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "137337",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446211164"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "139385",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755171"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "139642",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583038"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "140174",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446211303"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "140715",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583167"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "140725",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583059"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "141749",
+   "FIELD3": "toplist15",
+   "FIELD4": "1468077718"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "142488",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449754627"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "143385",
+   "FIELD3": "toplist15",
+   "FIELD4": "1446211337"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "144172",
+   "FIELD3": "bkk",
+   "FIELD4": "1472400655"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "146656",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755899"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "148482",
+   "FIELD3": "tivo",
+   "FIELD4": "1476583253"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "148626",
+   "FIELD3": "toplist15",
+   "FIELD4": "1449755637"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "155064",
+   "FIELD3": "bkk",
+   "FIELD4": "1472179444"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "156387",
+   "FIELD3": "toplist16",
+   "FIELD4": "1467946629"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "158783",
+   "FIELD3": "bkk",
+   "FIELD4": "1466133970"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "160954",
+   "FIELD3": "bkk",
+   "FIELD4": "1472178574"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "161336",
+   "FIELD3": "getdvd",
+   "FIELD4": "1469112392"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "161582",
+   "FIELD3": "bkk",
+   "FIELD4": "1472737430"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "163056",
+   "FIELD3": "bkk",
+   "FIELD4": "1472178747"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "163949",
+   "FIELD3": "toplist16",
+   "FIELD4": "1476419254"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "164977",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113746"
+ },
+ {
+   "FIELD1": "547",
+   "FIELD2": "164979",
+   "FIELD3": "tivo",
+   "FIELD4": "1476113908"
+ },
+ {
+   "FIELD1": "567",
+   "FIELD2": "138610",
+   "FIELD3": "found footage",
+   "FIELD4": "1436827601"
+ },
+ {
+   "FIELD1": "567",
+   "FIELD2": "138610",
+   "FIELD3": "survival horror",
+   "FIELD4": "1436827612"
+ },
+ {
+   "FIELD1": "574",
+   "FIELD2": "47044",
+   "FIELD3": "Michael Mann",
+   "FIELD4": "1232812787"
+ },
+ {
+   "FIELD1": "583",
+   "FIELD2": "112552",
+   "FIELD3": "determination",
+   "FIELD4": "1430526450"
+ },
+ {
+   "FIELD1": "583",
+   "FIELD2": "112552",
+   "FIELD3": "devotion",
+   "FIELD4": "1430526450"
+ },
+ {
+   "FIELD1": "583",
+   "FIELD2": "112552",
+   "FIELD3": "music",
+   "FIELD4": "1430526450"
+ },
+ {
+   "FIELD1": "599",
+   "FIELD2": "66203",
+   "FIELD3": "honest",
+   "FIELD4": "1344134759"
+ },
+ {
+   "FIELD1": "599",
+   "FIELD2": "82152",
+   "FIELD3": "alex pettyfer",
+   "FIELD4": "1306109318"
+ },
+ {
+   "FIELD1": "611",
+   "FIELD2": "105504",
+   "FIELD3": "hijacking",
+   "FIELD4": "1471521058"
+ },
+ {
+   "FIELD1": "611",
+   "FIELD2": "105504",
+   "FIELD3": "ocean",
+   "FIELD4": "1471521036"
+ },
+ {
+   "FIELD1": "611",
+   "FIELD2": "105504",
+   "FIELD3": "pirates",
+   "FIELD4": "1471521067"
+ },
+ {
+   "FIELD1": "611",
+   "FIELD2": "105504",
+   "FIELD3": "suspense",
+   "FIELD4": "1471521044"
+ },
+ {
+   "FIELD1": "615",
+   "FIELD2": "111384",
+   "FIELD3": "revenge",
+   "FIELD4": "1408781036"
+ },
+ {
+   "FIELD1": "615",
+   "FIELD2": "111384",
+   "FIELD3": "vengeance",
+   "FIELD4": "1408781025"
+ },
+ {
+   "FIELD1": "615",
+   "FIELD2": "111931",
+   "FIELD3": "femme-fatale",
+   "FIELD4": "1425503802"
+ },
+ {
+   "FIELD1": "615",
+   "FIELD2": "111931",
+   "FIELD3": "gritty",
+   "FIELD4": "1425503802"
+ },
+ {
+   "FIELD1": "615",
+   "FIELD2": "111931",
+   "FIELD3": "low-budget",
+   "FIELD4": "1425503802"
+ },
+ {
+   "FIELD1": "630",
+   "FIELD2": "260",
+   "FIELD3": "classic sci-fi",
+   "FIELD4": "1443807766"
+ },
+ {
+   "FIELD1": "630",
+   "FIELD2": "260",
+   "FIELD3": "series",
+   "FIELD4": "1443807803"
+ },
+ {
+   "FIELD1": "652",
+   "FIELD2": "146501",
+   "FIELD3": "gay",
+   "FIELD4": "1449533216"
+ },
+ {
+   "FIELD1": "660",
+   "FIELD2": "260",
+   "FIELD3": "imaginary world, characters, story, philosophical",
+   "FIELD4": "1436680217"
+ },
+ {
+   "FIELD1": "660",
+   "FIELD2": "260",
+   "FIELD3": "script",
+   "FIELD4": "1436680177"
+ },
+ {
+   "FIELD1": "660",
+   "FIELD2": "135518",
+   "FIELD3": "meaning of life",
+   "FIELD4": "1436680885"
+ },
+ {
+   "FIELD1": "660",
+   "FIELD2": "135518",
+   "FIELD3": "philosophical",
+   "FIELD4": "1436680885"
+ },
+ {
+   "FIELD1": "660",
+   "FIELD2": "135518",
+   "FIELD3": "sci-fi",
+   "FIELD4": "1436680885"
+ },
+ {
+   "FIELD1": "663",
+   "FIELD2": "260",
+   "FIELD3": "action",
+   "FIELD4": "1438398078"
+ },
+ {
+   "FIELD1": "663",
+   "FIELD2": "260",
+   "FIELD3": "Syfy",
+   "FIELD4": "1438398050"
+ }
+]
